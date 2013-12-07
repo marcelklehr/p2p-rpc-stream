@@ -1,5 +1,5 @@
 { "name" : "p2p-rpc-stream",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "rpc streams with client/server or between peers (both sides act as client & server)",
   "keywords": ["rpc", "stream", "remote procedure call", "json-rpc", "p2p", "peer-to-peer"],
   "author": "Marcel Klehr <mklehr@gmx.net>",
